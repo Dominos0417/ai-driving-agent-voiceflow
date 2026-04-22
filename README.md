@@ -16,11 +16,6 @@ This project is an interactive Conversational AI agent designed to support candi
 - **Automated Result Reporting:** Upon completing a mock exam, the system triggers a Make.com webhook via REST API to automatically generate and send a detailed performance summary to the user's email.
 - **Dynamic Context:** Integration with external weather APIs to provide users with situational awareness regarding road conditions.
 
-## System Architecture & Visuals
-*(Wklej tutaj 2-3 zrzuty ekranu pokazujące skomplikowanie logiki w Voiceflow oraz przykładową rozmowę z botem)*
-![Conversation Flowchart](path/to/voiceflow_canvas_screenshot.png)
-![Chat Interface Example](path/to/chat_interaction_screenshot.png)
-
 Detailed system architecture, user personas, and flowcharts can be found in the `documentation/` folder.
 
 ## How to Run and Test
